@@ -1,0 +1,28 @@
+Questions:
+
+1. Home, Welcome to my website set it as h2 or not?
+
+
+
+
+ToDO
+
+1. Font size nav (Done)
+
+2. teaching (Done)
+
+3. Contact Section (Half Done)
+
+4. Intrests change (Done)
+
+5. Split Inntroduction I am . (Done)
+
+6. Add Each Icon with contact details beside it 
+
+7. Under Intro han7ot CV we email
+
+8. Another list > eduaction
+
+9. Add a sign beside Abstract
+
+10. 
