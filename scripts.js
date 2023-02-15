@@ -7,10 +7,10 @@ if (page == "index.html") {
   window.onscroll = function () {
     var currentScrollPos = window.pageYOffset;
     if (prevScrollpos > currentScrollPos) {
-      document.getElementById("navbar").style.top = "0";
+      document.getElementById("navbar-light").style.top = "0";
       $(".navbar-collapse").collapse("hide");
     } else {
-      document.getElementById("navbar").style.top = "-70px";
+      document.getElementById("navbar-light").style.top = "-70px";
       $(".navbar-collapse").collapse("hide");
     }
     prevScrollpos = currentScrollPos;
