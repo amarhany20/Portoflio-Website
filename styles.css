@@ -61,7 +61,7 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(6,23,60,1) 100%);
 
 /* ----------------------- Auto Scroll Navbar ----------------------- */
 
-#navbar, #navbar-dark {
+#navbar-light, #navbar-dark {
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
 p {
