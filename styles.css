@@ -34,7 +34,7 @@
 #home-dark .collabse-hover:hover {
   transition: 0.5s;
   background-color: rgba(0, 0, 0, 0);
-  color: rgb(139, 139, 139) !important;
+  color: rgb(255, 255, 255) !important;
 }
 #home-dark .section-line {
   width: 100px;
@@ -61,7 +61,7 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(6,23,60,1) 100%);
 
 /* ----------------------- Auto Scroll Navbar ----------------------- */
 
-#navbar {
+#navbar, #navbar-dark {
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
 p {
